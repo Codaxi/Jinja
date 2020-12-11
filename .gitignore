@@ -1,0 +1,6 @@
+#Exclude the following:
+bin/
+include/
+lib/
+lib64
+pyvenv.cfg
